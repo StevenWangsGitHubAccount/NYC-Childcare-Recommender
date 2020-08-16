@@ -1,9 +1,9 @@
 # final-project-the-new-yorkers-daycare
 final-project-the-new-yorkers-daycare created by GitHub Classroom
 
-This Java program provides the user with a list of recommended daycare centers within a New York City zip code. It begins by retrieving the inspection records of New York City daycare centers from the City's OpenData website. The user then inputs a zip code and the type of daycare program that they are looking for (e.g., pre-school, infants and toddlers, school-based, etc.). It returns a list of daycare centers of that type and located in that zip code that have the best inspection records. 
+This Java application provides the user with a list of recommended daycare centers within a New York City zip code. It begins by retrieving the inspection records of New York City daycare centers from the City's OpenData website. The user then inputs a zip code and the type of daycare program that they are looking for (e.g., pre-school, infants and toddlers, school-based, etc.). It returns a list of daycare centers of that type and located in that zip code that have the best inspection records. 
 
-This program was developed by Steven Wang, Xiaoya Huang, and Anna Jones for Penn MCIT Online 591's final project (Spring 2019).
+This application was developed by Steven Wang, Xiaoya Huang, and Anna Jones as the final project in Penn MCIT Online 591 (Introduction to Software Development) , Spring Semester 2019.
 
 1. Class name: httpReader by Xiaoya H
 Method: A class to access the public childcare center data through its API and download the file in JSON format, and a main method to implement it.
